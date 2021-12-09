@@ -22,12 +22,12 @@
 ![3](https://user-images.githubusercontent.com/76679270/145397369-611f6349-8f61-4233-a045-7c063fada459.jpg)
 
 
-4) 스크래핑 되는 과정
+4) 크롤링 되는 과정
 
 ![4](https://user-images.githubusercontent.com/76679270/145397412-f6a52c56-0aca-4205-9ad4-32f9f713dd5d.jpg)
 
   
-5) 스크래핑 완료 후 엑셀파일에 저장된 데이터 모습
+5) 크롤링 완료 후 엑셀파일에 저장된 데이터 모습
 
 ![5](https://user-images.githubusercontent.com/76679270/145397428-777021fd-bb56-4170-b1de-4c3f4739c990.png)
 
