@@ -7,7 +7,7 @@
 * BeautifulSoup은 html 코드를 파이썬이 인식 할 수 있는 객체 구조로 변환하는 Parsing을 담당
 * selenium은 브라우저 자동화도구로서 웹브라우저를 통해 동적페이지에서도 데이터 수집  가능
 
-과정
+
 ![1](https://user-images.githubusercontent.com/76679270/145396988-751b64cb-a10d-4afe-8854-5d2307d3e0b5.jpg)
 1) Anaconda Prompt
 3) 크롬드라이버 저장 경로 ,자신의 네이버 ID/PW입력 
