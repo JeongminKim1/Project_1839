@@ -8,9 +8,14 @@
 * selenium은 브라우저 자동화도구로서 웹브라우저를 통해 동적페이지에서도 데이터 수집  가능
 
 
-![1](https://user-images.githubusercontent.com/76679270/145396988-751b64cb-a10d-4afe-8854-5d2307d3e0b5.jpg)
+  ![1](https://user-images.githubusercontent.com/76679270/145396988-751b64cb-a10d-4afe-8854-5d2307d3e0b5.jpg)
 1) Anaconda Prompt
-3) 크롬드라이버 저장 경로 ,자신의 네이버 ID/PW입력 
-4) 데이터를 저장하려는 엑셀파일의 절대 경로를 입력
-5) 스크래핑 되는 과정
-6) 스크래핑 완료 후 엑셀파일에 저장된 데이터 모습
+  ![2](https://user-images.githubusercontent.com/76679270/145397347-f68db065-170e-4a00-aed6-33135de8972b.jpg)
+2) 크롬드라이버 저장 경로 ,자신의 네이버 ID/PW입력 
+  ![3](https://user-images.githubusercontent.com/76679270/145397369-611f6349-8f61-4233-a045-7c063fada459.jpg)
+3) 데이터를 저장하려는 엑셀파일의 절대 경로를 입력
+  ![4](https://user-images.githubusercontent.com/76679270/145397412-f6a52c56-0aca-4205-9ad4-32f9f713dd5d.jpg)
+4) 스크래핑 되는 과정
+  ![5](https://user-images.githubusercontent.com/76679270/145397428-777021fd-bb56-4170-b1de-4c3f4739c990.png)
+5) 스크래핑 완료 후 엑셀파일에 저장된 데이터 모습
+
